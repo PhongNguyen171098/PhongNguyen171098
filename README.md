@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhongNguyen
-- 👀 I’m interested in Ma Data Analyst, Data science, Data engineer 
+- 👀 I’m interested in Marketing Analyst, Data Analyst, Data Science, Data engineer 
 - 🌱 I’m currently learning SQL, Python with Data, Visualization Dât
 - 💞️ I’m looking to collaborate on working with Data Analyst, Data science, Data engineer 
 - 📫 U can reach me on email: phongnguyen.n321@gmail.com 
