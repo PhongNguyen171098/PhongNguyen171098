@@ -1,6 +1,5 @@
 # Hi there, I'm Phong Nguyen 👋
-**Data Intelligence Professional | Data Governance & Financial Analytics Expert**
-
+**Data Analyst | Data Governance & Financial Analytics Specialist**
 > "Transforming raw enterprise data into governed, actionable strategic assets."
 
 ---
