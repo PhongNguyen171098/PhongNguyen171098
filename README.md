@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Professional Overview
-I am a **Data Analyst** focused on building robust data architectures and high-impact financial intelligence systems. My expertise lies in bridging the gap between complex data engineering (ETL/Governance) and strategic business growth (Financial/Marketing Analytics).
+I am a **Data Governance Analyst** focused on building robust data architectures and high-impact financial intelligence systems. My expertise lies in bridging the gap between complex data engineering (ETL/Governance) and strategic business growth (Financial/Marketing Analytics).
 
 - 🛡️ **Core Focus:** Data Governance (PII Masking, Medallion Architecture).
 - 📊 **Specialization:** Financial FP&A, Cohort Analysis, and Executive Dashboarding.
