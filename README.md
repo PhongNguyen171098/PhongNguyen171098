@@ -1,5 +1,5 @@
 # Hi there, I'm Phong Nguyen 👋
-**Data Analyst | Data Governance & Financial Analytics Specialist**
+**Data Analyst | Data Governance & Data Analytics Specialist**
 > "Transforming raw enterprise data into governed, actionable strategic assets."
 
 ---
@@ -30,18 +30,23 @@ I am a **Data Governance Analyst** focused on building robust data architectures
 **Objective:** Developed a governed Star Schema following the Medallion Architecture (Bronze ➡️ Silver ➡️ Gold).
 - **Key Highlight:** Implemented **Dynamic PII Masking** and RBAC (Role-Based Access Control) to ensure data privacy and compliance.
 - **Tools:** SQL, Data Modeling, Governance Frameworks.
+  
+### 2. [Finance & Banking Analytics Portfolio](https://github.com/PhongNguyen171098/finance-bank-analytics)
+**Objective:** Built an end-to-end analytics portfolio covering the core data domains of retail banking — credit risk, fraud detection, customer segmentation, and churn prediction.
+- **Key Highlight:** Developed a multi-factor **Risk Scoring Engine** using CTEs and Window Functions (SQL) combined with ML pipelines (Random Forest, Gradient Boosting) achieving AUC-ROC 0.98 on fraud detection; segmented 500+ customers into 8 RFM tiers where top **18%** Champions drive **42%** of total revenue.
+- **Tools:** SQL (CTEs, Window Functions, Business Views), Python (Pandas, Scikit-learn, SMOTE), Machine Learning (Classification, Imbalanced Data), Banking Domain (Credit Risk, AML, Churn)
 
-### 2. [Financial Customer Value Analytics - Python Dashboard](https://github.com/PhongNguyen171098/Financial-Customer-Value-Analytics-Python)
+### 3. [Financial Customer Value Analytics - Python Dashboard](https://github.com/PhongNguyen171098/Financial-Customer-Value-Analytics-Python)
 **Objective:** Deep-dived into E-commerce financial health using advanced SQL and Python.
 - **Key Highlight:** Developed a **Cohort Retention Heatmap** and **Pareto (80/20) Analysis** to identify high-value customer segments.
 - **Tools:** SQL (Window Functions), Python (Strategic Dashboarding), Cohort Analysis.
 
-### 3. [Bank Marketing - Automated ETL & DQ Pipeline](https://github.com/PhongNguyen171098/Bank-Marketing-ETL-Pipeline-Audit)
+### 4. [Bank Marketing - Automated ETL & DQ Pipeline](https://github.com/PhongNguyen171098/Bank-Marketing-ETL-Pipeline-Audit)
 **Objective:** Engineered an automated data pipeline with a customized "Data Quality Gatekeeper."
 - **Key Highlight:** Created an **Automated DQ Audit Log** to divert invalid records (Age/Balance) for manual review, ensuring warehouse integrity.
 - **Tools:** Python (OOP), ETL Pipelines, Data Quality Auditing.
 - 
-### 4. [Project Sales Performance - Multi-dimensional Analysis](https://github.com/PhongNguyen171098/Project-Sales-Performance)
+### 5. [Project Sales Performance - Multi-dimensional Analysis](https://github.com/PhongNguyen171098/Project-Sales-Performance)
 **Objective:** Analyzed regional sales performance and product category trends to optimize revenue growth.
 - **Key Highlight:** Identified seasonal sales patterns and underperforming regions using **Time-Series Analysis**, providing data-driven recommendations for inventory rebalancing.
 - **Tools:** SQL (Aggregation, Joins), Python (Data Visualization), Business Intelligence.
